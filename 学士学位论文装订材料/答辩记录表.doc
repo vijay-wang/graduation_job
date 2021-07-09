@@ -15,17 +15,17 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>change</o:Author>
   <o:LastAuthor>Vijay Wang</o:LastAuthor>
-  <o:Revision>3</o:Revision>
-  <o:TotalTime>4</o:TotalTime>
+  <o:Revision>4</o:Revision>
+  <o:TotalTime>9</o:TotalTime>
   <o:Created>2011-10-27T08:26:00Z</o:Created>
-  <o:LastSaved>2021-06-10T07:40:00Z</o:LastSaved>
+  <o:LastSaved>2021-06-15T05:42:00Z</o:LastSaved>
   <o:Pages>2</o:Pages>
-  <o:Words>116</o:Words>
-  <o:Characters>662</o:Characters>
+  <o:Words>121</o:Words>
+  <o:Characters>695</o:Characters>
   <o:Company>change</o:Company>
   <o:Lines>5</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>777</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>815</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -364,6 +364,12 @@ xmlns="http://www.w3.org/TR/REC-html40">
    Name="Table Subtle 2"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
   <w:LsdException Locked="false" Priority="99" SemiHidden="true"
    Name="Placeholder Text"/>
   <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
@@ -661,7 +667,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-font-charset:0;
 	mso-generic-font-family:roman;
 	mso-font-pitch:variable;
-	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+	mso-font-signature:3 0 0 0 1 0;}
 @font-face
 	{font-family:"\@宋体";
 	panose-1:2 1 6 0 3 1 1 1 1 1;
@@ -701,7 +707,7 @@ h3
 	margin-left:0cm;
 	text-align:justify;
 	text-justify:inter-ideograph;
-	line-height:172%;
+	line-height:171%;
 	mso-pagination:lines-together;
 	page-break-after:avoid;
 	mso-outline-level:3;
@@ -718,7 +724,9 @@ span.3
 	mso-ansi-font-size:16.0pt;
 	mso-bidi-font-size:16.0pt;
 	font-family:宋体;
+	mso-ascii-font-family:宋体;
 	mso-fareast-font-family:宋体;
+	mso-hansi-font-family:宋体;
 	mso-font-kerning:1.0pt;
 	font-weight:bold;}
 p.msonormal0, li.msonormal0, div.msonormal0
@@ -938,9 +946,9 @@ bold'><o:p></o:p></span></p>
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:31.1pt'>
   <p class=MsoNormal align=center style='text-align:center'><a
-  name="_Toc748203759"></a><a name="_Toc1528692109"><span style='mso-bookmark:
-  _Toc748203759'><span lang=EN style='font-size:12.0pt;mso-ansi-language:EN'>MTES</span></span></a><span
-  style='mso-bookmark:_Toc1528692109'><span style='mso-bookmark:_Toc748203759'><span
+  name="_Toc1528692109"></a><a name="_Toc748203759"><span style='mso-bookmark:
+  _Toc1528692109'><span lang=EN style='font-size:12.0pt;mso-ansi-language:EN'>MTES</span></span></a><span
+  style='mso-bookmark:_Toc748203759'><span style='mso-bookmark:_Toc1528692109'><span
   style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
   mso-hansi-font-family:"Times New Roman";mso-ansi-language:EN'>气凝胶制备方法及其应用初步研究</span></span></span><span
   lang=EN style='font-size:12.0pt;mso-ansi-language:EN'><o:p></o:p></span></p>
@@ -1111,15 +1119,23 @@ bold'><o:p></o:p></span></p>
   <td width="100%" colspan=9 style='width:100.0%;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:54.9pt'>
-  <p class=MsoNormal style='text-indent:30.0pt;mso-char-indent-count:2.5;
+  <p class=MsoNormal align=center style='text-align:center;line-height:26.0pt;
+  mso-line-height-rule:exactly'><span style='font-size:12.0pt;font-family:宋体;
+  mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>陈述报告</span><span
+  lang=EN-US style='font-size:12.0pt'>(30%)____ <span
+  style='mso-spacerun:yes'>&nbsp;</span></span><span style='font-size:12.0pt;
+  font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>回答问题</span><span lang=EN-US style='font-size:12.0pt'>(30%)____
+  <span style='mso-spacerun:yes'>&nbsp;</span></span><span style='font-size:
+  12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>论文质量</span><span lang=EN-US style='font-size:12.0pt'>(30%)____
+  <span style='mso-spacerun:yes'>&nbsp;</span></span><span style='font-size:
+  12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>总评</span><span lang=EN-US style='font-size:12.0pt'>____<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:144.0pt;mso-char-indent-count:12.0;
   line-height:26.0pt;mso-line-height-rule:exactly'><span style='font-size:12.0pt;
   font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
-  "Times New Roman"'>答辩成绩：</span><span lang=EN-US style='font-size:12.0pt'><span
-  style='mso-spacerun:yes'>&nbsp; </span>82<span
-  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-  style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
-  mso-hansi-font-family:"Times New Roman"'>答辩组长：</span><span lang=EN-US
-  style='font-size:12.0pt'><span
+  "Times New Roman"'>答辩组长：</span><span lang=EN-US style='font-size:12.0pt'><span
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
   "Times New Roman";mso-hansi-font-family:"Times New Roman"'>秘书：</span><span

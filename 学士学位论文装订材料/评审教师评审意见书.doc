@@ -1,6 +1,7 @@
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
 xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
@@ -15,19 +16,23 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>change</o:Author>
   <o:LastAuthor>Vijay Wang</o:LastAuthor>
-  <o:Revision>5</o:Revision>
-  <o:TotalTime>5</o:TotalTime>
-  <o:Created>2011-10-27T08:57:00Z</o:Created>
-  <o:LastSaved>2021-06-10T07:45:00Z</o:LastSaved>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>6</o:TotalTime>
+  <o:Created>2021-06-11T07:44:00Z</o:Created>
+  <o:LastSaved>2021-06-11T07:52:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>129</o:Words>
-  <o:Characters>736</o:Characters>
+  <o:Words>120</o:Words>
+  <o:Characters>687</o:Characters>
   <o:Company>change</o:Company>
-  <o:Lines>6</o:Lines>
+  <o:Lines>5</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>864</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>806</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
+ <o:CustomDocumentProperties>
+  <o:KSOProductBuildVer dt:dt="string">2052-11.1.0.10495</o:KSOProductBuildVer>
+  <o:ICV dt:dt="string">7DB78190D15B401BB8B050381F3FCE7F</o:ICV>
+ </o:CustomDocumentProperties>
 </xml><![endif]-->
 <link rel=themeData href="评审教师评审意见书.files/themedata.thmx">
 <link rel=colorSchemeMapping href="评审教师评审意见书.files/colorschememapping.xml">
@@ -36,7 +41,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <w:View>Print</w:View>
   <w:Zoom>90</w:Zoom>
   <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
@@ -52,16 +56,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
   <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
   <w:Compatibility>
-   <w:SpaceForUL/>
    <w:BalanceSingleByteDoubleByteWidth/>
-   <w:DoNotLeaveBackslashAlone/>
-   <w:ULTrailSpace/>
    <w:DoNotExpandShiftReturn/>
    <w:AdjustLineHeightInTable/>
    <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
    <w:DontGrowAutofit/>
    <w:SplitPgBreakAndParaMark/>
    <w:UseFELayout/>
@@ -85,206 +83,122 @@ xmlns="http://www.w3.org/TR/REC-html40">
   DefSemiHidden="false" DefQFormat="false" LatentStyleCount="376">
   <w:LsdException Locked="false" QFormat="true" Name="Normal"/>
   <w:LsdException Locked="false" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" QFormat="true" Name="heading 6"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    QFormat="true" Name="heading 7"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    QFormat="true" Name="heading 8"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toc 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toc 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toc 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toc 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toc 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toc 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toc 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toc 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toc 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="header"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footer"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index heading"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="index 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="index 2"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="index 3"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="index 4"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="index 5"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="index 6"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="index 7"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="index 8"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="index 9"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Normal Indent"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="footnote text"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="annotation text"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="header"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="footer"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="index heading"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of figures"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope return"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="table of figures"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="envelope address"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="envelope return"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="footnote reference"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true"
    Name="annotation reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 5"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List Bullet"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List Number"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List 2"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List 3"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List 4"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List 5"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List Bullet 2"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List Bullet 3"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List Bullet 4"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List Bullet 5"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List Number 2"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List Number 3"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List Number 4"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List Number 5"/>
   <w:LsdException Locked="false" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Closing"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Signature"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Message Header"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Closing"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Body Text"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Body Text Indent"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List Continue"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List Continue 2"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List Continue 3"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List Continue 4"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="List Continue 5"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Message Header"/>
   <w:LsdException Locked="false" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Salutation"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Date"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Salutation"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Date"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true"
    Name="Body Text First Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+  <w:LsdException Locked="false" UnhideWhenUsed="true"
    Name="Body Text First Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Block Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Note Heading"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Body Text 2"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Body Text 3"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Block Text"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Hyperlink"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="FollowedHyperlink"/>
   <w:LsdException Locked="false" QFormat="true" Name="Strong"/>
   <w:LsdException Locked="false" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Document Map"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Plain Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="E-mail Signature"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Top of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Bottom of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal (Web)"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Acronym"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Cite"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Code"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Definition"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Keyboard"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Preformatted"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Sample"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Typewriter"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Variable"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Document Map"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Plain Text"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="E-mail Signature"/>
+  <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+   UnhideWhenUsed="true" Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+   UnhideWhenUsed="true" Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="Normal (Web)"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="HTML Acronym"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="HTML Address"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="HTML Cite"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="HTML Code"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="HTML Definition"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="HTML Sample"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="HTML Variable"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Normal Table"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation subject"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="true" Name="annotation subject"/>
+  <w:LsdException Locked="false" Priority="99" UnhideWhenUsed="true"
+   Name="No List"/>
   <w:LsdException Locked="false" Priority="99" SemiHidden="true"
-   UnhideWhenUsed="true" Name="No List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 3"/>
+   UnhideWhenUsed="true" Name="Outline List 1"/>
+  <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Outline List 2"/>
+  <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Outline List 3"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Table Simple 1"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
@@ -371,113 +285,14 @@ xmlns="http://www.w3.org/TR/REC-html40">
    Name="Table Web 3"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Table Theme"/>
-  <w:LsdException Locked="false" Priority="99" SemiHidden="true"
-   Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="99" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="99" QFormat="true" Name="No Spacing"/>
   <w:LsdException Locked="false" Priority="99" SemiHidden="true" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" QFormat="true"
+  <w:LsdException Locked="false" Priority="99" QFormat="true"
    Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" QFormat="true"
+  <w:LsdException Locked="false" Priority="99" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="99" QFormat="true"
    Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
   <w:LsdException Locked="false" Priority="19" QFormat="true"
    Name="Subtle Emphasis"/>
   <w:LsdException Locked="false" Priority="21" QFormat="true"
@@ -670,6 +485,13 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-font-pitch:variable;
 	mso-font-signature:3 0 0 0 1 0;}
 @font-face
+	{font-family:楷体;
+	panose-1:2 1 6 9 6 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-2147482945 953122042 22 0 262145 0;}
+@font-face
 	{font-family:"\@宋体";
 	panose-1:2 1 6 0 3 1 1 1 1 1;
 	mso-font-charset:134;
@@ -679,6 +501,12 @@ xmlns="http://www.w3.org/TR/REC-html40">
 @font-face
 	{font-family:"\@黑体";
 	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-2147482945 953122042 22 0 262145 0;}
+@font-face
+	{font-family:"\@楷体";
 	mso-font-charset:134;
 	mso-generic-font-family:modern;
 	mso-font-pitch:fixed;
@@ -693,13 +521,96 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	text-justify:inter-ideograph;
 	mso-pagination:none;
 	font-size:10.5pt;
-	mso-bidi-font-size:12.0pt;
 	font-family:"Times New Roman",serif;
 	mso-fareast-font-family:宋体;
 	mso-font-kerning:1.0pt;}
+h1
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:正文;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:24.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;
+	mso-font-kerning:22.0pt;
+	font-weight:bold;}
+h2
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:正文;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;
+	font-weight:bold;}
+h3
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:正文;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;
+	font-weight:bold;}
+h4
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:正文;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;
+	font-weight:bold;}
+h5
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:正文;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:5;
+	font-size:10.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;
+	font-weight:bold;}
+h6
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:正文;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:6;
+	font-size:7.5pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;
+	font-weight:bold;}
 p.MsoFooter, li.MsoFooter, div.MsoFooter
 	{mso-style-noshow:yes;
-	mso-style-link:"页脚 字符";
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
 	mso-margin-bottom-alt:auto;
@@ -708,8 +619,117 @@ p.MsoFooter, li.MsoFooter, div.MsoFooter
 	font-size:12.0pt;
 	font-family:宋体;
 	mso-bidi-font-family:宋体;}
+p
+	{mso-style-noshow:yes;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;}
+pre
+	{mso-style-noshow:yes;
+	margin:0cm;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:12.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;}
+span.1
+	{mso-style-name:"标题 1 字符";
+	mso-style-unhide:no;
+	mso-ansi-font-size:22.0pt;
+	mso-bidi-font-size:22.0pt;
+	font-family:宋体;
+	mso-ascii-font-family:宋体;
+	mso-fareast-font-family:宋体;
+	mso-hansi-font-family:宋体;
+	mso-font-kerning:22.0pt;
+	font-weight:bold;}
+span.2
+	{mso-style-name:"标题 2 字符";
+	mso-style-unhide:no;
+	mso-ansi-font-size:16.0pt;
+	mso-bidi-font-size:16.0pt;
+	font-family:"等线 Light";
+	mso-ascii-font-family:"等线 Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"等线 Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"等线 Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	mso-font-kerning:1.0pt;
+	font-weight:bold;}
+span.3
+	{mso-style-name:"标题 3 字符";
+	mso-style-unhide:no;
+	mso-ansi-font-size:16.0pt;
+	mso-bidi-font-size:16.0pt;
+	font-family:宋体;
+	mso-ascii-font-family:宋体;
+	mso-fareast-font-family:宋体;
+	mso-hansi-font-family:宋体;
+	mso-font-kerning:1.0pt;
+	font-weight:bold;}
+span.4
+	{mso-style-name:"标题 4 字符";
+	mso-style-unhide:no;
+	mso-ansi-font-size:14.0pt;
+	mso-bidi-font-size:14.0pt;
+	font-family:"等线 Light";
+	mso-ascii-font-family:"等线 Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"等线 Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"等线 Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	mso-font-kerning:1.0pt;
+	font-weight:bold;}
+span.5
+	{mso-style-name:"标题 5 字符";
+	mso-style-unhide:no;
+	mso-ansi-font-size:14.0pt;
+	mso-bidi-font-size:14.0pt;
+	font-family:宋体;
+	mso-ascii-font-family:宋体;
+	mso-fareast-font-family:宋体;
+	mso-hansi-font-family:宋体;
+	mso-font-kerning:1.0pt;
+	font-weight:bold;}
+span.6
+	{mso-style-name:"标题 6 字符";
+	mso-style-unhide:no;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"等线 Light";
+	mso-ascii-font-family:"等线 Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"等线 Light";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"等线 Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	mso-font-kerning:1.0pt;
+	font-weight:bold;}
+span.HTML
+	{mso-style-name:"HTML 预设格式 字符";
+	mso-style-unhide:no;
+	font-family:"Courier New";
+	mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:宋体;
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";
+	mso-font-kerning:1.0pt;}
 p.msonormal0, li.msonormal0, div.msonormal0
 	{mso-style-name:msonormal;
+	mso-style-noshow:yes;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -721,10 +741,36 @@ p.msonormal0, li.msonormal0, div.msonormal0
 	mso-bidi-font-family:宋体;}
 span.a
 	{mso-style-name:"页脚 字符";
+	mso-style-unhide:no;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:宋体;
+	mso-ascii-font-family:宋体;
+	mso-fareast-font-family:宋体;
+	mso-hansi-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.msonormal1, li.msonormal1, div.msonormal1
+	{mso-style-name:msonormal1;
 	mso-style-noshow:yes;
 	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:页脚;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:宋体;
+	mso-bidi-font-family:宋体;}
+span.10
+	{mso-style-name:10;
+	mso-style-unhide:no;
+	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+span.15
+	{mso-style-name:15;
+	mso-style-unhide:no;
 	mso-ansi-font-size:9.0pt;
 	mso-bidi-font-size:9.0pt;
 	font-family:宋体;
@@ -771,57 +817,9 @@ div.WordSection1
 	font-size:10.0pt;
 	font-family:"Times New Roman",serif;}
 </style>
-<![endif]-->
-<script language="JavaScript">
- 
-/**//* 
-* 
-* @param {Object} cont 要导出的html元素内容的id,注意不要加双引号 
-* @param {Object} key 分页关键字 
-*/ 
-function AllAreaWord(cont,key) 
-{ 
-var oWD = new ActiveXObject("Word.Application"); 
-//默认为页面视图 
-var oDC = oWD.Documents.Add("", 0,0); 
-var oRange = oDC.Range(0, 1); 
-//var oRange1 = oDC.Range(0,2); 
-var sel = document.body.createTextRange(); 
-//参数为html元素id 
-sel.moveToElementText(cont); 
-sel.select(); 
-sel.execCommand("Copy"); 
-oRange.Paste(); 
-oWD.Application.Visible = true; 
-//得到打开后word的selection对象 
-var selection = oWD.Selection; 
-//设置字体大小 
-selection.Font.Size = 10; 
-//ctrl+A 全选操作 
-selection.WholeStory(); 
-//清除格式 
-selection.Find.ClearFormatting(); 
-//指定查找关键字 
-selection.Find.Text = key; 
-//^m为手动分页符标记 
-//向下查找 
-selection.Find.Forward = true; 
-selection.Find.Wrap = 1; 
-//不区分大小写 
-selection.Find.MatchCase = false; 
-//不匹配整个单词 
-selection.Find.MatchWholeWord = false; 
-//如果找到指定字符串返回真,否则返回false 
-while (selection.Find.Execute()) 
-{ 
-//插入分页符,分页符常量为7,具体可查word api 
-selection.InsertBreak(7); 
-} 
-
-window.close();
-} 
-</script>
-<!--[if gte mso 9]><xml>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings></o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapedefaults v:ext="edit" spidmax="1026"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
@@ -830,142 +828,164 @@ window.close();
 </head>
 
 <body lang=ZH-CN style='tab-interval:21.0pt;word-wrap:break-word;text-justify-trim:
-punctuation' onload="javascript:AllAreaWord(test,'^');">
+punctuation'>
 
 <div class=WordSection1>
 
-<div id=test>
-
 <p class=MsoFooter align=center style='margin:0cm;text-align:center;text-indent:
-7.85pt;mso-char-indent-count:.49;tab-stops:21.0pt'><span style='font-size:16.0pt;
-mso-bidi-font-size:10.5pt;font-family:黑体;mso-ascii-font-family:"Times New Roman";
-color:red;mso-bidi-font-weight:bold'>成</span><span style='font-size:16.0pt;
-mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
+7.85pt;mso-char-indent-count:.49'><span style='font-size:16.0pt;font-family:
+黑体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:red;mso-bidi-font-weight:bold'>成</span><span
+style='font-size:16.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
 黑体;color:red;mso-bidi-font-weight:bold'> </span><span style='font-size:16.0pt;
-mso-bidi-font-size:10.5pt;font-family:黑体;mso-ascii-font-family:"Times New Roman";
-color:red;mso-bidi-font-weight:bold'>都</span><span style='font-size:16.0pt;
-mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-黑体;color:red;mso-bidi-font-weight:bold'> </span><span style='font-size:16.0pt;
-mso-bidi-font-size:10.5pt;font-family:黑体;mso-ascii-font-family:"Times New Roman";
+font-family:黑体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-bidi-font-family:"Times New Roman";color:red;mso-bidi-font-weight:
+bold'>都</span><span style='font-size:16.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:黑体;color:red;mso-bidi-font-weight:bold'> </span><span
+style='font-size:16.0pt;font-family:黑体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
 color:red;mso-bidi-font-weight:bold'>理</span><span style='font-size:16.0pt;
-mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
+font-family:"Times New Roman",serif;mso-fareast-font-family:黑体;color:red;
+mso-bidi-font-weight:bold'> </span><span style='font-size:16.0pt;font-family:
+黑体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";color:red;mso-bidi-font-weight:bold'>工</span><span
+style='font-size:16.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
 黑体;color:red;mso-bidi-font-weight:bold'> </span><span style='font-size:16.0pt;
-mso-bidi-font-size:10.5pt;font-family:黑体;mso-ascii-font-family:"Times New Roman";
-color:red;mso-bidi-font-weight:bold'>工</span><span style='font-size:16.0pt;
-mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-黑体;color:red;mso-bidi-font-weight:bold'> </span><span style='font-size:16.0pt;
-mso-bidi-font-size:10.5pt;font-family:黑体;mso-ascii-font-family:"Times New Roman";
-color:red;mso-bidi-font-weight:bold'>大</span><span style='font-size:16.0pt;
-mso-bidi-font-size:10.5pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-黑体;color:red;mso-bidi-font-weight:bold'> </span><span style='font-size:16.0pt;
-mso-bidi-font-size:10.5pt;font-family:黑体;mso-ascii-font-family:"Times New Roman";
+font-family:黑体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-bidi-font-family:"Times New Roman";color:red;mso-bidi-font-weight:
+bold'>大</span><span style='font-size:16.0pt;font-family:"Times New Roman",serif;
+mso-fareast-font-family:黑体;color:red;mso-bidi-font-weight:bold'> </span><span
+style='font-size:16.0pt;font-family:黑体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
 color:red;mso-bidi-font-weight:bold'>学</span><span lang=EN-US style='font-size:
-16.0pt;mso-bidi-font-size:10.5pt;mso-fareast-font-family:黑体;color:red;
-mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+16.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:黑体;
+color:red;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
 
-<p class=MsoNormal align=center style='text-align:center;layout-grid-mode:char;
-mso-layout-grid-align:none'><span style='font-size:16.0pt;mso-bidi-font-size:
-10.5pt;font-family:黑体;mso-ascii-font-family:"Times New Roman";color:red;
-mso-bidi-font-weight:bold'>学士学位论文（设计）评审教师评审意见书</span><span lang=EN-US
-style='font-size:16.0pt;mso-bidi-font-size:10.5pt;mso-fareast-font-family:黑体;
-mso-bidi-font-weight:bold'><br>
-<br style='mso-special-character:line-break'>
-<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
-<![endif]><o:p></o:p></span></p>
+<p class=MsoNormal align=center style='margin-bottom:16.0pt;text-align:center;
+layout-grid-mode:char;mso-layout-grid-align:none'><span style='font-size:16.0pt;
+font-family:黑体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red;mso-bidi-font-weight:bold'>学士学位论文（设计）评审教师评审意见书</span><span
+lang=EN-US style='font-size:16.0pt;mso-fareast-font-family:黑体;mso-bidi-font-weight:
+bold'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;line-height:225%'><span
-style='mso-bidi-font-size:9.0pt;line-height:225%;font-family:宋体;color:red'>对 <u><span
-style='mso-spacerun:yes'>&nbsp;</span>材料与化学化工学院<span lang=EN-US><span
-style='mso-spacerun:yes'>&nbsp; </span></span></u>学院 <u><span
-style='mso-spacerun:yes'>&nbsp;</span>应用化学<span lang=EN-US><span
-style='mso-spacerun:yes'>&nbsp; </span></span></u>专业 <u><span
-style='mso-spacerun:yes'>&nbsp;</span>王文杰<span lang=EN-US><span
-style='mso-spacerun:yes'>&nbsp; </span></span></u>同学所完成的题目为：<span lang=EN-US><o:p></o:p></span></span></p>
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>对</span><span style='color:red'> <u><span
+style='mso-spacerun:yes'>&nbsp;</span></u></span><u style='text-underline:red'><span
+style='font-family:楷体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>材料与化学化工学院</span></u><u><span lang=EN-US style='color:red'><span
+style='mso-spacerun:yes'>&nbsp; </span></span></u><span style='font-family:
+宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>学院</span><span style='color:red'> <u><span
+style='mso-spacerun:yes'>&nbsp;</span></u></span><u style='text-underline:red'><span
+style='font-family:楷体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>应用化学</span></u><u><span lang=EN-US style='color:red'><span
+style='mso-spacerun:yes'>&nbsp; </span></span></u><span style='font-family:
+宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>专业</span><span style='color:red'> <u><span
+style='mso-spacerun:yes'>&nbsp;</span></u></span><u style='text-underline:red'><span
+style='font-family:楷体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>王文杰</span></u><u style='text-underline:red'><span
+style='mso-fareast-font-family:楷体'> </span></u><u><span style='color:red'><span
+style='mso-spacerun:yes'>&nbsp;</span></span></u><span style='font-family:宋体;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>同学所完成的题目为：</span><span lang=EN-US style='color:red'><o:p></o:p></span></p>
 
-<p class=MsoNormal style='line-height:225%'><span lang=EN-US style='mso-bidi-font-size:
-9.0pt;line-height:225%;font-family:宋体;color:red'><span
+<p class=MsoNormal style='line-height:225%'><span lang=EN-US style='color:red'><span
 style='mso-spacerun:yes'>&nbsp;</span><u><span
-style='mso-spacerun:yes'>&nbsp;</span><span
-style='mso-spacerun:yes'>&nbsp;</span></u></span><a name="_Toc748203759"></a><a
-name="_Toc1528692109"><span style='mso-bookmark:_Toc748203759'><u><span
-lang=EN style='font-size:12.0pt;line-height:225%;color:red;mso-ansi-language:
-EN'>MTES</span></u></span></a><span style='mso-bookmark:_Toc1528692109'><span
-style='mso-bookmark:_Toc748203759'><u><span style='font-size:12.0pt;line-height:
-225%;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
-"Times New Roman";color:red;mso-ansi-language:EN'>气凝胶制备方法及其应用初步研究</span></u></span></span><span
-style='mso-bookmark:_Toc748203759'></span><span style='mso-bookmark:_Toc1528692109'></span><u><span
-lang=EN-US style='mso-bidi-font-size:9.0pt;line-height:225%;font-family:宋体;
-color:red'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><o:p></o:p></span></u></p>
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></u></span><u style='text-underline:red'><span lang=EN-US
+style='mso-fareast-font-family:楷体'>MTES</span></u><u style='text-underline:
+red'><span style='font-family:楷体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>气凝胶制备方法及其应用初步研究</span></u><u><span
+lang=EN-US style='color:red'><span style='mso-tab-count:5'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></u><span
+lang=EN-US style='color:red'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-margin-bottom-alt:auto;mso-add-space:auto;
-line-height:225%;layout-grid-mode:char'><span style='mso-bidi-font-size:9.0pt;
-line-height:225%;font-family:宋体;color:red'>的学士学位论文选题、论文结构、论据论点、工作量、论文质量及存在不足的综合评审意见：<u><span
-lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>本论文通过实验方法考察了不同条件（氨水、盐酸、水解时长等）对<span
-lang=EN-US>MTES</span>气凝胶性能的影响，并对合成的气凝胶进行了多种表征。通过实验制备获得的气凝胶的比表面积和平均孔径分别为<span
-lang=EN-US>839.378(m<sup>2</sup></span>·<span lang=EN-US>g<sup>-1</sup>)</span>、<span
-lang=EN-US>9.406(nm)</span>。使用硅基气凝胶对油吸附的研究中发现，其对油的吸附量很大，能达到自身重量的<span
-lang=EN-US>6.5</span>倍。该论文的研究内容对硅基气凝胶在柱层析和吸附领域的应用具有一定的指导意义， 该论文选题符合应用化学专业学术规范，工作量合适，能正确的使用图表表达实验结果并对实验结果进行适当讨论，得出的结论合理，但是论文部分表格的格式需要统一，全文应该按照要求使用三线表。总体上，论文达到本科毕业论文的要求，同意提交答辩。<span
-lang=EN-US><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></u><span lang=EN-US><o:p></o:p></span></span></p>
+line-height:225%;layout-grid-mode:char'><span style='font-family:宋体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";color:red'>的学士学位论文选题、论文结构、论据论点、工作量、论文质量及存在不足的综合评审意见：</span><u><span
+lang=EN-US style='color:red'><span style='mso-spacerun:yes'>&nbsp;&nbsp;
+</span></span></u><u style='text-underline:red'><span style='font-family:楷体;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>本论文通过实验方法考察了不同条件（氨水、盐酸、水解时长等）对</span></u><u
+style='text-underline:red'><span lang=EN-US style='mso-fareast-font-family:
+楷体'>MTES</span></u><u style='text-underline:red'><span style='font-family:楷体;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>气凝胶性能的影响，并对合成的气凝胶进行了多种表征。通过实验制备获得的气凝胶的比表面积和平均孔径分别为</span></u><u
+style='text-underline:red'><span lang=EN-US style='mso-fareast-font-family:
+楷体'>839.378(m<sup>2</sup>·g<sup>-1</sup>)</span></u><u style='text-underline:
+red'><span style='font-family:楷体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>、</span></u><u style='text-underline:
+red'><span lang=EN-US style='mso-fareast-font-family:楷体'>9.406(nm)</span></u><u
+style='text-underline:red'><span style='font-family:楷体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>。使用硅基气凝胶对油吸附的研究中发现，其对油的吸附量很大，能达到自身重量的</span></u><u
+style='text-underline:red'><span lang=EN-US style='mso-fareast-font-family:
+楷体'>6.5</span></u><u style='text-underline:red'><span style='font-family:楷体;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>倍。该论文的研究内容对硅基气凝胶在柱层析和吸附领域的应用具有一定的指导意义，</span></u><u
+style='text-underline:red'><span style='mso-fareast-font-family:楷体'> </span></u><u
+style='text-underline:red'><span style='font-family:楷体;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>该论文选题符合应用化学专业学术规范，工作量合适，能正确的使用图表表达实验结果并对实验结果进行适当讨论，得出的结论合理，但是论文部分表格的格式需要统一，全文应该按照要求使用三线表。总体上，论文达到本科毕业论文的要求，同意提交答辩。</span></u><u
+style='text-underline:red'><span lang=EN-US style='mso-fareast-font-family:
+楷体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></u><u><span lang=EN-US style='color:red'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></u><span
+lang=EN-US style='color:red'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-margin-bottom-alt:auto;mso-add-space:auto;
-line-height:225%;layout-grid-mode:char'><u><span lang=EN-US style='mso-bidi-font-size:
-9.0pt;line-height:225%;font-family:宋体;color:red'><span
+line-height:225%;layout-grid-mode:char'><u><span lang=EN-US style='color:red'><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></u><span lang=EN-US style='mso-bidi-font-size:9.0pt;line-height:
-225%;font-family:宋体;color:red'><o:p></o:p></span></p>
+</span></span></u><span lang=EN-US style='color:red'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-margin-bottom-alt:auto;mso-add-space:auto;
-line-height:225%;layout-grid-mode:char'><u><span lang=EN-US style='mso-bidi-font-size:
-9.0pt;line-height:225%;font-family:宋体;color:red'><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></u><span
-lang=EN-US style='mso-bidi-font-size:9.0pt;line-height:225%;font-family:宋体;
-color:red'><o:p></o:p></span></p>
+line-height:225%;layout-grid-mode:char'><u><span lang=EN-US style='color:red'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></u><span lang=EN-US style='color:red'><o:p></o:p></span></p>
 
-<p class=MsoNormal style='line-height:200%'><span style='mso-bidi-font-size:
-9.0pt;line-height:200%;font-family:宋体;mso-ascii-font-family:"Times New Roman";
-mso-hansi-font-family:"Times New Roman";color:red'>评审教师评审成绩（按百分制评分）</span><u><span
-lang=EN-US style='mso-bidi-font-size:9.0pt;line-height:200%;color:red'>&nbsp;
-&nbsp;84 &nbsp; &nbsp;</span></u><span lang=EN-US style='mso-bidi-font-size:
-9.0pt;line-height:200%;color:red'><o:p></o:p></span></p>
+<p class=MsoNormal style='line-height:200%'><span style='font-family:宋体;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>评审教师评审成绩（按百分制评分）</span><u><span style='color:red'> <span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span lang=EN-US>84</span></span></u><span
+lang=EN-US style='color:red'><span style='mso-spacerun:yes'>&nbsp;&nbsp;
+</span><u><span style='mso-spacerun:yes'>&nbsp;</span></u><o:p></o:p></span></p>
 
-<p class=MsoNormal style='line-height:200%'><span style='mso-bidi-font-size:
-9.0pt;line-height:200%;font-family:宋体;mso-ascii-font-family:"Times New Roman";
-mso-hansi-font-family:"Times New Roman";color:red'>是否同意设计（论文）提交答辩<span
-style='mso-bidi-font-weight:bold'>：</span></span><span lang=EN-US
-style='mso-bidi-font-size:9.0pt;line-height:200%;color:red;mso-bidi-font-weight:
-bold'><span style='mso-spacerun:yes'>&nbsp; </span></span><u><span
-style='mso-bidi-font-size:9.0pt;line-height:200%;font-family:宋体;mso-ascii-font-family:
-"Times New Roman";mso-hansi-font-family:"Times New Roman";color:red'>同意√；修改后答辩□；不同意□</span></u><u
-style='text-underline:dotted'><span lang=EN-US style='mso-bidi-font-size:9.0pt;
-line-height:200%;font-family:黑体;mso-hansi-font-family:宋体;color:red'><o:p></o:p></span></u></p>
+<p class=MsoNormal style='line-height:200%'><span style='font-family:宋体;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>是否同意设计（论文）提交答辩<span style='mso-bidi-font-weight:bold'>：</span></span><span
+lang=EN-US style='color:red;mso-bidi-font-weight:bold'><span
+style='mso-spacerun:yes'>&nbsp; </span></span><u><span style='font-family:宋体;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>同意</span><span lang=EN-US style='color:red'>√</span></u><u><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>；修改后答辩</span><span lang=EN-US style='color:red'>□</span></u><u><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>；不同意</span><span lang=EN-US style='color:red'>□</span></u><u
+style='text-underline:dotted'><span lang=EN-US style='mso-fareast-font-family:
+黑体;color:red'><o:p></o:p></span></u></p>
 
 <p class=MsoNormal align=right style='text-align:right;text-indent:31.5pt;
-mso-char-indent-count:3.0;line-height:150%'><span style='mso-bidi-font-size:
-9.0pt;line-height:150%;font-family:宋体;mso-ascii-font-family:"Times New Roman";
-mso-hansi-font-family:"Times New Roman";color:red'>评审</span><span
-style='mso-bidi-font-size:9.0pt;line-height:150%;font-family:宋体;color:red'>教师<span
-lang=EN-US>:<u><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>_<span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></u></span>（签名）<span
-lang=EN-US><o:p></o:p></span></span></p>
+mso-char-indent-count:3.0;line-height:150%'><span style='font-family:宋体;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>评审教师</span><span lang=EN-US style='color:red'>:<u><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>_<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></u></span><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>（签名）</span><span lang=EN-US style='color:red'><o:p></o:p></span></p>
 
 <p class=MsoNormal align=right style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:0cm;margin-left:135.15pt;margin-bottom:.0001pt;mso-para-margin-top:
 12.0pt;mso-para-margin-right:0cm;mso-para-margin-bottom:0cm;mso-para-margin-left:
 12.87gd;mso-para-margin-bottom:.0001pt;text-align:right;line-height:150%;
-word-break:break-all'><span lang=EN-US style='mso-bidi-font-size:9.0pt;
-line-height:150%;font-family:宋体;color:red'>2021 </span><span style='mso-bidi-font-size:
-9.0pt;line-height:150%;font-family:宋体;color:red'>年<span lang=EN-US> 6 </span>月<span
-lang=EN-US> 7 </span>日</span></p>
+word-break:break-all'><span lang=EN-US style='color:red'>2021 </span><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>年</span><span lang=EN-US style='color:red'> 6 </span><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>月</span><span lang=EN-US style='color:red'> 7 </span><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";color:red'>日</span><span lang=EN-US><o:p></o:p></span></p>
 
 </div>
 
-</div>
-
+<!--EndFragment-->
 </body>
 
 </html>
